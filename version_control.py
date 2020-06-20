@@ -1,6 +1,7 @@
 # Learn Python Coding in 2020
 # By Jerry Garretson
 ##########################
+
 #Clear the terminal screen
 import os
 os.system('clear')
